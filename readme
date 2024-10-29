@@ -1,0 +1,7 @@
+This dataset is curated by Team from Habib University as part of their Final Year Project.
+The project aims to provide a solution for menstrual health and hygiene-related issues by creating a transformer-based chatbot that can understand English.
+The dataset is from different sources such as Hello Clue, Flo, Always, Kaggle, Reddit, and locally collected data from stakeholders and doctors.
+Is shows a good conversational flow and accurate information regarding the topic of menstruation,pregnancy and emotional well being.
+The chatbot aim to provide accurate and scientifically fact about the issue related to women health and wellbeing.
+If the prompt is beyond the dataset,it will simply give an output stating I have no information about the topic you asked.
+This can be a life changer for thousands of teen girls and women who feel shy to discuss such thing with others.
